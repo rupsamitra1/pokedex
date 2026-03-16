@@ -1,6 +1,6 @@
 # Pokédex
 
-A React app that lets you explore every Pokémon using the free [PokeAPI](https://pokeapi.co). No API key required!
+A React app that lets you explore every Pokémon using the pokeAPI. (https://pokeapi.co).
 
 ---
 
